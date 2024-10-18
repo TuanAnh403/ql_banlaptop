@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frm_baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frm_qlncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_qlncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frm_qllaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_qllaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frm_qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frm_sualaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_sualaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frm_taophieudathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_taophieudathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frm_taophieubaohanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_taophieubaohanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frm_them.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_them.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frm_thongkespbanchay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_thongkespbanchay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|d:\\hk7\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00FD b\u00E1n laptop_winform\\cua hang ban laptop tur\\gui_qlcuahang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|d:\\hk7\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00FD b\u00E1n laptop_winform\\cua hang ban laptop tur\\gui_qlcuahang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|d:\\hk7\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00FD b\u00E1n laptop_winform\\cua hang ban laptop tur\\gui_qlcuahang\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frm_qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frm_taohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_taohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|d:\\hk7\\ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00FD b\u00E1n laptop_winform\\cua hang ban laptop tur\\gui_qlcuahang\\frm_qlncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_qlncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frm_them.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frm_them.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A2F5A1-8425-40D5-919D-9B46D8F6CB4F}|DTO_QLCUAHANG\\DTO_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\dto_qlcuahang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79A2F5A1-8425-40D5-919D-9B46D8F6CB4F}|DTO_QLCUAHANG\\DTO_QLCUAHANG.csproj|solutionrelative:dto_qlcuahang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511200C5-CA17-42BD-B1CF-8DA610DA00D9}|DAL_QLCUAHANG\\DAL_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\dal_qlcuahang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{511200C5-CA17-42BD-B1CF-8DA610DA00D9}|DAL_QLCUAHANG\\DAL_QLCUAHANG.csproj|solutionrelative:dal_qlcuahang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44414DFD-80E7-4C03-8F3B-09942F9C91B6}|BUS_QLCUAHANG\\BUS_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\bus_qlcuahang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44414DFD-80E7-4C03-8F3B-09942F9C91B6}|BUS_QLCUAHANG\\BUS_QLCUAHANG.csproj|solutionrelative:bus_qlcuahang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\gui_qlcuahang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BE202A-2746-4FDA-AE43-47E7186445DA}|GUI_QLCUAHANG\\GUI_QLCUAHANG.csproj|solutionrelative:gui_qlcuahang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_QLLaptop.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_QLLaptop.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_QLLaptop.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_QLLaptop.cs [Design]",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_QLLaptop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:33:27.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_QLNCC.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_QLNCC.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_QLNCC.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_QLNCC.cs [Design]",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_QLNCC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:33:55.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_BaoCao.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_BaoCao.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_BaoCao.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_BaoCao.cs [Design]",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_BaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:36:37.633Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_DangNhap.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_DangNhap.cs [Design]",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:32:53.316Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_QLNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_QLNhanVien.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_QLNhanVien.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_QLNhanVien.cs [Design]",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_QLNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:34:37.505Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_SuaLaptop.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_SuaLaptop.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_SuaLaptop.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_SuaLaptop.cs [Design]",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_SuaLaptop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:17:05.59Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_TaoPhieuDatHang.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_TaoPhieuDatHang.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_TaoPhieuDatHang.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_TaoPhieuDatHang.cs [Design]",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_TaoPhieuDatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:35:51.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_TaoPhieuBaoHanh.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_TaoPhieuBaoHanh.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_TaoPhieuBaoHanh.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_TaoPhieuBaoHanh.cs [Design]",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_TaoPhieuBaoHanh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:36:07.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_Them.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_Them.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_Them.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_Them.cs [Design]",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_Them.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:52:28.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_ThongKeSPBanChay.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_ThongKeSPBanChay.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_ThongKeSPBanChay.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_ThongKeSPBanChay.cs [Design]",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_ThongKeSPBanChay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:41:15.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmmain.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frmmain.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frmmain.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frmmain.cs [Design]",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frmmain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:21:52.524Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\Program.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\Program.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\Program.cs",
+              "RelativeToolTip": "GUI_QLCUAHANG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:44:16.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\packages.config",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\packages.config",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\packages.config",
+              "RelativeToolTip": "GUI_QLCUAHANG\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-18T11:20:23.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frm_QLKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_QLKhachHang.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_QLKhachHang.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_QLKhachHang.cs [Design]",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_QLKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:34:15.78Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frm_TaoHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_TaoHoaDon.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_TaoHoaDon.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_TaoHoaDon.cs [Design]",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_TaoHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:35:30.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frm_QLNCC.cs",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_QLNCC.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_QLNCC.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_QLNCC.cs",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_QLNCC.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:49:16.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frm_Them.cs",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_Them.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frm_Them.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frm_Them.cs",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frm_Them.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:12:36.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\DTO_QLCUAHANG\\Form1.cs",
+              "RelativeDocumentMoniker": "DTO_QLCUAHANG\\Form1.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\DTO_QLCUAHANG\\Form1.cs [Design]",
+              "RelativeToolTip": "DTO_QLCUAHANG\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:38:10.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\DAL_QLCUAHANG\\Form1.cs",
+              "RelativeDocumentMoniker": "DAL_QLCUAHANG\\Form1.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\DAL_QLCUAHANG\\Form1.cs [Design]",
+              "RelativeToolTip": "DAL_QLCUAHANG\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:37:55.333Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\BUS_QLCUAHANG\\Form1.cs",
+              "RelativeDocumentMoniker": "BUS_QLCUAHANG\\Form1.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\BUS_QLCUAHANG\\Form1.cs [Design]",
+              "RelativeToolTip": "BUS_QLCUAHANG\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:37:17.03Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmmain.cs",
+              "DocumentMoniker": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frmmain.cs",
+              "RelativeDocumentMoniker": "GUI_QLCUAHANG\\frmmain.cs",
+              "ToolTip": "D:\\HK7\\Ph\u00E1t tri\u1EC3n ph\u1EA7n m\u1EC1m \u1EE9ng d\u1EE5ng th\u00F4ng minh\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD b\u00E1n LapTop_WinForm\\Cua Hang Ban Laptop TUR\\GUI_QLCUAHANG\\frmmain.cs",
+              "RelativeToolTip": "GUI_QLCUAHANG\\frmmain.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA3wBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:23:33.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

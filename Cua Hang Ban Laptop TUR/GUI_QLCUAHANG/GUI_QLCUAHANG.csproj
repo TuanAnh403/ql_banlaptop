@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B3BE202A-2746-4FDA-AE43-47E7186445DA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI_QLCUAHANG</RootNamespace>
+    <AssemblyName>GUI_QLCUAHANG</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Data.24.1.6\lib\net452\DevExpress.Data.v24.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Xpo.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>..\packages\DevExpress.Xpo.24.1.6\lib\net452\DevExpress.Xpo.v24.1.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmmain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmain.Designer.cs">
+      <DependentUpon>frmmain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_BaoCao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_BaoCao.Designer.cs">
+      <DependentUpon>frm_BaoCao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_DangNhap.Designer.cs">
+      <DependentUpon>frm_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLKhachHang.Designer.cs">
+      <DependentUpon>frm_QLKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLLaptop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLLaptop.Designer.cs">
+      <DependentUpon>frm_QLLaptop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLNCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLNCC.Designer.cs">
+      <DependentUpon>frm_QLNCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLNhanVien.Designer.cs">
+      <DependentUpon>frm_QLNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SuaLaptop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SuaLaptop.Designer.cs">
+      <DependentUpon>frm_SuaLaptop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_TaoHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_TaoHoaDon.Designer.cs">
+      <DependentUpon>frm_TaoHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_TaoPhieuBaoHanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_TaoPhieuBaoHanh.Designer.cs">
+      <DependentUpon>frm_TaoPhieuBaoHanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_TaoPhieuDatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_TaoPhieuDatHang.Designer.cs">
+      <DependentUpon>frm_TaoPhieuDatHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Them.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Them.Designer.cs">
+      <DependentUpon>frm_Them.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ThongKeSPBanChay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ThongKeSPBanChay.Designer.cs">
+      <DependentUpon>frm_ThongKeSPBanChay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmmain.resx">
+      <DependentUpon>frmmain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_DangNhap.resx">
+      <DependentUpon>frm_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLKhachHang.resx">
+      <DependentUpon>frm_QLKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLLaptop.resx">
+      <DependentUpon>frm_QLLaptop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLNCC.resx">
+      <DependentUpon>frm_QLNCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLNhanVien.resx">
+      <DependentUpon>frm_QLNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SuaLaptop.resx">
+      <DependentUpon>frm_SuaLaptop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Them.resx">
+      <DependentUpon>frm_Them.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
